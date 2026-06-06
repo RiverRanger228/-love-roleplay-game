@@ -1,0 +1,1 @@
+"Custom Love Script" is an interactive web game combining a psychological test and AI role-playing. It analyzes users' love views and ideal types through fun questions, matches them with the best virtual lover, and lets them engage in immersive AI-driven conversations, creating a warm, personalized love story.
