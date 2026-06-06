@@ -1,0 +1,21 @@
+ # 环境变量
+  backend/.env
+  .env
+
+  # 依赖
+  node_modules/
+  backend/node_modules/
+  frontend/node_modules/
+
+  # 构建
+  frontend/dist/
+
+  # 系统文件
+  .DS_Store
+  Thumbs.db
+
+  # 记忆数据
+  backend/memory-data/
+
+  # 日志
+  *.log
